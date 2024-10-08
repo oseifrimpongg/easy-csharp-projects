@@ -1,0 +1,25 @@
+# .NET Core & Visual Studio settings
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Rider settings
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Publish output
+/PublishOutput/
+/publish/
+/artifacts/
+
+# Other
+*.swp
