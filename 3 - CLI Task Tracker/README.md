@@ -6,7 +6,7 @@ Here's a structure for your README file based on your task tracker project:
 
 ## Description
 
-This is a command-line interface (CLI) task tracker built in C#. It allows users to manage tasks by adding, updating, deleting, and marking them with statuses such as "to-do," "in-progress," and "completed." Tasks are stored in a JSON file for persistence across sessions.
+This is a command-line interface (CLI) task tracker built in C#. It allows users to manage tasks by adding, updating, deleting, and marking them with statuses such as "to-do," "in-progress," and "completed." Tasks are stored in a JSON file for persistence across sessions. This project is inspired by Roadmap.sh and can be found at https://roadmap.sh/projects/task-tracker
 
 ## Features
 
